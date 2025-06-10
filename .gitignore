@@ -1,0 +1,21 @@
+# Directory of files which are agreed to remain private (local to admins) 
+private
+private/*
+
+# OS dependent metadata files
+.DS_Store
+
+# Large, binary files
+# e.g. workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
+
+# Compiled files
+**/__pycache__/
+
+# IDE configs
+.vscode/settings.json
+.Rproj.user
+.idea
+
+# Python virtual environments
+venv/
+env/
