@@ -4,15 +4,11 @@ Approved August 2025
 
 
 # Table of Contents
-[1. Context](#context)
-
-[2. Plan of Work](#plan-of-work)
-
-[3. Deliverables and timeline](#deliverables-and-timeline)
-
-[4. Budget and resourcing](#budget-and-resourcing)
-
-[5. References](#references)
+1. [Context](#context)
+1. [Plan of Work](#plan-of-work)
+1. [Deliverables and timeline](#deliverables-and-timeline)
+1. [Budget and resourcing](#budget-and-resourcing)
+1. [References](#references)
 
 # Context
 
@@ -42,7 +38,7 @@ The aim of this proposal is to develop an expert community strategy which suppor
 
 # Plan of Work
 
-We propose a formal analysis of the success of TOSI activities from 2014 to present, and development of both short- and longer-term strategic goals to support their mission. We will specifically focus on the health and sustainability of the open science community at The Neuo, with the understanding that community participation can positively contribute to successful behavior adoption.
+We propose a formal analysis of the success of TOSI activities from 2016 to present, and development of both short- and longer-term strategic goals to support their mission. We will specifically focus on the health and sustainability of the open science community at The Neuo, with the understanding that community participation can positively contribute to successful behavior adoption.
 
 The strategic analysis will be undertaken over four phases, as described below. The ‘diagnosis’ and ‘strategy design’ phases are expected to be the core undertakings of the residency period, with additional time allocated to co-creating ‘implementation tactics’ and ‘dissemination and engagement plans’ towards the end of the residency.
 
@@ -51,7 +47,7 @@ The strategic analysis will be undertaken over four phases, as described below. 
 The aim of this phase is to define a clear set of objectives for the community, a set of quantitative and qualitative metrics to measure success against these objectives, and understand the efficacy of current activities in support of these objectives.
 
 
-First we will document the organizational priorities with respect to desired modes of community participation (Sharan et al, 2024, see Figure 1 below). The **objectives for the community (Deliverable 1)** will be positioned within the macro environment of wider institutional priorities, resourcing forecasts, and trends within the discipline, country/region, and sector, including in TOSI Approved Open Science Institutes. This understanding will be built through qualitative interviews, desk research and workshop(s) with TOSI leadership and community representatives. We will importantly note whether these objectives have changed since the initiation of activities or have remained stable, to determine the appropriate strategy approach for moving forwards (see Section 2.2).
+First we will document the organizational priorities with respect to desired modes of community participation (Sharan et al, 2024, see Figure 1 below). The **objectives for the community (Deliverable 1)** will be positioned within the macro environment of wider institutional priorities, resourcing forecasts, and trends within the discipline, country/region, and sector, including in TOSI Approved Open Science Institutes[^scope]. This understanding will be built through qualitative interviews, desk research and workshop(s) with TOSI leadership and community representatives. We will importantly note whether these objectives have changed since the initiation of activities or have remained stable, to determine the appropriate strategy approach for moving forwards (see Section 2.2).
 
 ![Levels of community participation](../assets/levels-of-participation.png)
 *Figure 1: Levels of community participation. The complexity of potential problems solved increases with increasing participation level, along with the scope and potential rate of problem solving, sustainability and diversity of perspectives which can be included. Increasing participation level also requires increased infrastructure and resourcing to deliver efficiently and with consistency. Level descriptions: (1) Inform: The community is a communications channel; (2) Invite feedback: The community shares opinions with you; (3) Engage & Involve: Leaders connect to collaborate, share practices and combine solutions; (4) Mobilize & Connect: Different groups within the community are interconnected; (5) Empower groups: Groups undertake activities aligned with the community purpose; (6) Decentralize power: Shared decision making and distribution of responsibilities. (Sharan et al, 2024).*
@@ -71,6 +67,7 @@ Once analysis of the current (and forecast) state is complete, we will have a cl
 The design is anticipated to support one of four broad strategic approaches for the entire programme (see Figure 4), and specific strategy recommendations may be made for individual initiatives.
 
 ![Initiative refinement strategies](../assets/strategic-initiatives.png)
+
 *Figure 4: Strategic approaches for development of TOSI and The Neuro Open Science Community. The appropriate approach of ‘optimize’, ‘adapt’, ‘repair’ or ‘relaunch/revamp’ will be determined through consideration of how successful the overall programme and individual activities have been in achieving the devised objectives, and whether the macro environment of TOSI or the objectives themselves have changed since 2014. Adapted from Millington (2025).*
 
 Across all approaches we will emphasize the need to embed ongoing data collection and monitoring of factors identified as relevant to success, along with regular review of the objectives and mechanisms to remain responsive to changes in the macro environment.
@@ -154,6 +151,8 @@ We understand any requirement for experience with GitHub may limit engagement, t
 
 As discussed, we would be pleased to undertake this work at a reduced pre-tax rate, plus additional overheads charged by [OLS](https://we-are-ols.org/) as the fiscal sponsor of RCM Cooperative. The invoice for services will be prepared and submitted to TOSI (or relevant parties) by OLS. 
 
+# Footnotes
+[^scope] The scope of the diagnostic and strategy work has been reduced to focus solely on activities internal to The Neuro. 
 
 # References
 
