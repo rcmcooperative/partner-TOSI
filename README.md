@@ -91,7 +91,7 @@ The strategic analysis is being undertaken following the procedure outlined in t
 
 ### Milestone 3: (Diagnosis) Community objectives 
 - [x] Approval for open development of the project
-- [ ] Public deployment of this repository
+- [x] Public deployment of this repository
 - [x] Open call to The Neuro community to participate in Community Objective Interviews (see [Community Interviews: Take Part](./docs/diagnosis/objectives/community-interviews.md#take-part) 
 - [x] Infrastructure for collating invited interviewee list (see [Community Mapping](./docs/diagnosis/objectives/community-mapping.md))
 - [x] Interview scheduling and data collection infrastructure confirmed
