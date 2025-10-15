@@ -1,6 +1,6 @@
 # RCM Cooperative strategy for community engagement in open science at The Neuro
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository details the development and design of a community engagement strategy for Open Science at [The Neuro, McGill University](https://www.mcgill.ca/neuro/). 
@@ -180,6 +180,7 @@ Thanks goes to these people for contributions to this work ([emoji key](https://
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#projectManagement-cassgvp" title="Project Management">📆</a> <a href="#doc-cassgvp" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/luisa-pimentel"><img src="https://avatars.githubusercontent.com/u/159038806?v=4?s=100" width="100px;" alt="luisa-pimentel"/><br /><sub><b>luisa-pimentel</b></sub></a><br /><a href="#projectManagement-luisa-pimentel" title="Project Management">📆</a> <a href="#ideas-luisa-pimentel" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
