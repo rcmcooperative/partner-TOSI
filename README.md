@@ -1,47 +1,146 @@
-# Template for setting up RCM Cooperative partner repositories
+# RCM Cooperative strategy for community engagement in open science at The Neuro
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/github/all-contributors/rcmcooperative/partner-TOSI?color=ee8449&style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## About this Repository
+This repository details the development and design of a community engagement strategy for Open Science at [The Neuro, McGill University](https://www.mcgill.ca/neuro/). 
 
-This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+This work has been comissioned by The Neuro’s [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), under the Open Scientist in Residence Program.
 
-When reusing this repository, update the information below with information about the intended partnership.
+---
+## Contents
 
-Note after templating this directory, you may wish to create an additional directory called `private`. 
-Use this directory to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). 
-This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
+1. [Project Vision and Mission](#project-vision-and-mission)
+1. [About](#about)
+1. [Developing in the open](#developing-in-the-open)
+1. [Roadmap & Milestones](#roadmap--milestones)
+1. [The Team](#the-team)
+1. [Contributing](#contributing)
+1. [Licensing](#licensing)
+1. [Citing & Acknowledgement](#citing--acknowledgement)
+1. [Contact](#contact)
 
-## Vision and Mission
-See materials from [Community Pulse](https://www.communitypulse.io/50-metrics-kpis-and-okrs/) for more guidance on developing the vision and mission.
+---
 
-- **Vision:** A short phrase describing the future you are ultimately working towards (your final destination or desired end state).
-- **Mission:** A one-sentence statement describing the reason your organization or program exists (what you do + who/what you do this for).
+
+## Project Vision and Mission
+**Vision:** A resilient, sustainable and growing community of open scientists at The Neuro.
+
+**Mission:** Empowering the community, in partnership with TOSI, to make engaged and sustainable contributions to open science.
 
 ## About
 
-Motivation and background in a nutshell.
+TOSI have been actively engaged in activities to foster the adoption of open science practices at The Neuro (Montreal Neurological Institute-Hospital) and beyond since 2016. 
+
+The mission is to:
+
+1.  Establish best practices, develop tools, and develop infrastructure to support open science at The Neuro;
+
+2.  Encourage and support other Canadian neuroscience Institutes to embrace this new way of doing research.
+
+To date TOSI have supported a broad range of initiatives including large scale infrastructure, financial rewards for engagement with open science practices,  community-lead training initiatives, and patient engagement activities. 
+There has been variable uptake and success of these initiatives, and indications that the best practices of open science are failing to reach the full spectrum of staff members, students and researchers at The Neuro. 
+The aim of this proposal is to develop an expert community strategy which supports the mission of TOSI, incorporating evidence and understanding gained over the last nine years of their operations.
+
+A more detailed background is available in the [Proposal for Open Scientist in Residence Program (OSRP) 2025](./docs/proposal-OSRP-RCMCoop.md).
+
+## Developing in the open
+This  project is being "developed in the open", with ongoing work made publicly accessible and transparent from the start. This necessitates that some materials are incomplete, under review, or liable to change. 
+This state is indicated at the top of every relevant file. 
+
+This transparency is an intentional approach to empower the community by (1) building trust in the process, (2) facilitating engagement, and (3) demonstrating our open science principles. 
+1. **Trust**: Since this work is being carried out for the benefit of the community, we believe the work should be available to you for inspection as appropriate.
+You, the community, are our client.
+2. **Engagement**: Transparency about our ongoing activities allows you to see the exact point where your diverse expertise, priorities and contributions align with the project's timeline and goals. 
+This should make it easier for you to contribute.
+3. **Open Science Principles**: Our overarching mission is to support the community towards the adoption of open science practices. By demonstrating our open science principles here we are providing an example of how this work can be undertaken with high regard for inclusion, transparency and reproducibility. 
+
+### As open as possible, as closed as necessary
+All project material, including both quantitative and qualitative data, will be shared as openly as possible, but as closed as necessary to protect individuals and the integrity of the process.
+
+#### Quantitative Data (Metrics and Aggregates)
+Aggregate results, summary statistics, and all non-identifiable metrics will be made public and accessible in a timely manner.
+
+#### Qualitative Data (Opinions and Notes)
+Identifiable information will not be shared without the explicit, documented permission of those involved.
+
+The opinions or statements of individual participants will not be shared publicly. 
+Opinions will only be shared once they contribute to an indication of consensus ('group opinions'), or when they highlight a matter of particular relevance to the purpose of this project.
+
+Notes of meetings and workshops will remain internal until such a time that they are anonymized and redacted for public sharing.
+
+#### Documentation and Resource Management
+To ensure the long-term utility, discoverability, and sustainability of the project outputs, we aim for all resources (including datasets, code, and final reports) will be accompanied by robust and comprehensive documentation. Our goal is for this documentation to adhere [FAIR](https://www.go-fair.org/fair-principles/) best practices, including the use of metadata standards, data dictionaries, and version control.
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+The strategic analysis is being undertaken following the procedure outlined in the [Proposal for Open Scientist in Residence Program (OSRP) 2025](./docs/proposal-OSRP-RCMCoop.md). The following is a list of broad milestones and tasks undertaken towards them. This list may continue to expand as detail is defined.
+
+### Milestone 1: RCM Cooperative Executive Director in place at TOSI
+- [x] TOSI expressed interest; RCM Cooperative expertise and capacity confirmed.
+- [x] [Project proposal](./docs/proposal-OSRP-RCMCoop.md) approved by TOSI
+- [x] Schedule confirmed: 2025/09/19 - 2025/12/18
+- [x] Stipend and expenses arrangements confirmed with OLS as Fiscal Host of RCM Cooperative
+- [x] Visa, travel and accommodation plans confirmed
+- [x] Institutional access to internal resources provided by McGill issues email
+
+### Milestone 2: (Diagnosis) Interaction observations started
+- [x] Schedule of relevant activities shared - **Please continue to forward invites to cassandra.gouldvanpraag@rcmcooperative.com**
+- [x] Attendance and note taking (see [Interaction Observations](./docs/diagnosis/objectives/interaction-observations.md))
+
+
+### Milestone 3: (Diagnosis) Community objectives 
+- [x] Approval for open development of the project
+- [ ] Public deployment of this repository
+- [x] Open call to The Neuro community to participate in Community Objective Interviews (see [Community Interviews: Take Part](./docs/diagnosis/objectives/community-interviews.md#take-part) 
+- [x] Infrastructure for collating invited interviewee list (see [Community Mapping](./docs/diagnosis/objectives/community-mapping.md))
+- [x] Interview scheduling and data collection infrastructure confirmed
+- [ ] Interview invitations sent
+- [ ] Publicise invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
+determined
+- [ ] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
+- [ ] Objectives refined with TOSI
+
+### Milestone 4: (Diagnosis) Baseline
+- [ ] Indicators of success in achieving objectives determined
+- [ ] Data sources identified to observe indicators
+- [ ] Baseline and trends against indicators recorded
+
+### Milestone 5: Strategy Design complete
+- [ ] Develop approach to support success in achieving objectives
+- [ ] Refine strategy with TOSI
+- [ ] Refine strategy with The Neuro community (potentially a workshop)
+
+### Milestone 6: Implementation tactics developed
+- [ ] Refinement and prioritization of activities in support of the strategy, including review of existing initiatives (see [Strategy Design](./docs/proposal-OSRP-RCMCoop.md#strategy-design))
+- [ ] Refine implementation with TOSI
+- [ ] Refine implementation with The Neuro community (potentially a workshop)
+
+### Milestone 7: Dissemination plan developed
+- [ ] Mechanisms to empower the community to raise awareness of the strategy so it can be incorporated into their operational planning
+- [ ] Communication of the project at 2026 Town Hall
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+### Team members
+- Cassandra "Cass" Gould van Praag - Executive Director, RCM Cooperative (cassandra.gouldvanpraag@rcmcooperative.com)
+- [Luisa Pimentel - Open Science Community Officer, TOSI](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi)
+- [Annabel Seyller - CEO, TOSI](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi)
+- Other contributions have also been made by those listed in [Contributors](#contributors)
+
+### Roles an responsibilities
+The main investigative work is being undertaken by Cassandra Gould van Praag (RCM Cooperative), using infrastructure provided by RCM Cooperative. 
+Where engagement with the community is required, for example for qualitative data collection and the co-creation of recommendations, TOSI will facilitate connections with appropriate individuals and manage the logistics of convening (for example, registration and room bookings for workshops).
 
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
 - **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
+
 
 ## Licensing
 
-This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file for details.
+This project is licensed under the CC-BY-4.0 License - see the [LICENSE](./LICENSE.md) for details.
 
 ## Citing & Acknowledgement
 
@@ -50,51 +149,34 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
+All initial enquiries should be directed to the project lead, Cassandra "Cass" Gould van Praag (cassandra.gouldvanpraag@rcmcooperative.com).
+
+You can also direct message Cass on the **TOSI Slack workspace** - please email Cass for a slack invite link.
 
 
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
-    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders' info and the nature of engagement
+- [x] Add a README file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [X] Add a [LICENSE](LICENSE.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Install [all-contributors](https://allcontributors.org/) bot
+- [x] .gitignore file (choose from a template)
+- [x] Create a directory with files for project management (meetings, reports, proposals)
+- [x] Create a directory for documentation
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
-- [ ] Add badges
 
 
-## Contributors ✨
+## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these people for contributions to this work ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a> <a href="https://github.com/the-turing-way/reproducible-project-template/commits?author=malvikasharan" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt="Anne Lee Steele"/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/reproducible-project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
