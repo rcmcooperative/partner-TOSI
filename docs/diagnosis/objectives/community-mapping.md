@@ -1,6 +1,6 @@
 <mark>**This project is being developed in the open, with ongoing work made publicly accessible and transparent from the start. 
 Accordingly this material may be incomplete, under review, or liable to change.
-We welcome your thoughts and contributions to this material following the routes described in the [CONTRIBUTING guide](~/CONTRIBUTING.md).**</mark>
+We welcome your thoughts and contributions to this material following the routes described in the [CONTRIBUTING guide](../../../CONTRIBUTING.md).**</mark>
 
 # Community mapping
 Mapping the community is an essential stage of work to understand who your community are. 

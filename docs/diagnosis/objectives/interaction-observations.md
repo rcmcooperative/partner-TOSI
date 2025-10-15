@@ -1,6 +1,6 @@
 <mark>**This project is being developed in the open, with ongoing work made publicly accessible and transparent from the start. 
 Accordingly this material may be incomplete, under review, or liable to change.
-We welcome your thoughts and contributions to this material following the routes described in the [CONTRIBUTING guide](~/CONTRIBUTING.md).**</mark>
+We welcome your thoughts and contributions to this material following the routes described in the [CONTRIBUTING guide](../../../CONTRIBUTING.md).**</mark>
 
 # Interaction Observations
 Cass is joining a variety of the interactions hosted by, for, and with relevance to TOSI, to observe the norms of behavior with respect to best practice in open science and research community management. 
