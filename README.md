@@ -97,7 +97,6 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [x] Interview scheduling and data collection infrastructure confirmed
 - [ ] Interview invitations sent
 - [ ] Publicise invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
-determined
 - [ ] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
 - [ ] Objectives refined with TOSI
 
@@ -118,7 +117,7 @@ determined
 
 ### Milestone 7: Dissemination plan developed
 - [ ] Mechanisms to empower the community to raise awareness of the strategy so it can be incorporated into their operational planning
-- [ ] Communication of the project at 2026 Town Hall
+- [ ] Communication of the recommendations to the wider Neuro community
 
 ## The Team
 
