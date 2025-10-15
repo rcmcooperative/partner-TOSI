@@ -1,6 +1,6 @@
 # RCM Cooperative strategy for community engagement in open science at The Neuro
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/github/all-contributors/rcmcooperative/partner-TOSI?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository details the development and design of a community engagement strategy for Open Science at [The Neuro, McGill University](https://www.mcgill.ca/neuro/). 
@@ -177,6 +177,13 @@ Thanks goes to these people for contributions to this work ([emoji key](https://
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#projectManagement-cassgvp" title="Project Management">📆</a> <a href="#doc-cassgvp" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
