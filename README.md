@@ -5,7 +5,7 @@
 
 This repository details the development and design of a community engagement strategy for Open Science at [The Neuro, McGill University](https://www.mcgill.ca/neuro/). 
 
-This work has been comissioned by The Neuro’s [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), under the Open Scientist in Residence Program.
+This work has been comissioned by The Neuro’s [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), under the Open Scientist in Residence Program, September - December 2025.
 
 ---
 ## Contents
