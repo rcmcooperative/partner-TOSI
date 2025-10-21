@@ -1,4 +1,4 @@
-<a name="top-of-section"></a>
+<a id="top-of-section"></a>
 
 # RCM Cooperative strategy for community engagement in open science at The Neuro
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
