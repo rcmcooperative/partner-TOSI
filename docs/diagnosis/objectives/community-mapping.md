@@ -61,13 +61,14 @@ Cass will do a big push on this so interview invites can be sent ASAP.
 
 ### 2025-10-20
 
-Added previous awardees and PIs of labs with team members who'd received awards. 
+Added previous awardees and PIs of labs with team members who'd received awards (2023, 2024). 
 
 Added Cooper Prize recipients (from the Neuro)
+
+Added Open Science in Action Seminar speakers and Chairs
+- This should really be refactored as an element on the "interactions" list. 
+- Leaving it as an "initiative" for now as that is enough to show who has engaged across multiple activities.
 
 Need to get lists of:
 - Previous GRC members
 - Previous Cooper Prize reviewers
-
-
-
