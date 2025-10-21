@@ -59,3 +59,15 @@ Suggest this is moved to a TOSI group area for improved long-term fidelity of ac
 Luisa is continuing to add email addresses. 
 Cass will do a big push on this so interview invites can be sent ASAP. 
 
+### 2025-10-20
+
+Added previous awardees and PIs of labs with team members who'd received awards. 
+
+Added Cooper Prize recipients (from the Neuro)
+
+Need to get lists of:
+- Previous GRC members
+- Previous Cooper Prize reviewers
+
+
+

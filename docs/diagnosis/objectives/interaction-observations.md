@@ -20,6 +20,7 @@ Learnings from these observations will be incorporated into the community strate
 - 2025-10-09 - 1st Canadian Conference on Open Science and Open Scholarship (Day 1)
 - 2025-10-10 - 1st Canadian Conference on Open Science and Open Scholarship (Day 2)
 - 2025-10-15 - The Neuro Open Science Grants Info Session
+- 2025-10-20 - The Neuro Info Session
 
 ## Themes from observations
 These will remaining internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.

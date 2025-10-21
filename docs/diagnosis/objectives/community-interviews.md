@@ -56,3 +56,13 @@ Additionally advised to contact past members of GRC. Initiative and tool lists t
 ### 2025-10-15
 
 [Open call to participate](#take-part) in interviews added to pubic repo.
+
+### 2025-10-16
+
+Continuing to build out email addresses of those in above lists. 
+
+### 2025-10-21
+
+Incorporated Cooper Prize recipients and Open Science in Action speakers 2019-2024.
+
+Email invitations sent. Expect to send more if new members added from the list of passed GRC members.
