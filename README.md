@@ -1,3 +1,4 @@
+# 
 # RCM Cooperative strategy for community engagement in open science at The Neuro
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
@@ -108,12 +109,12 @@ The strategic analysis is being undertaken following the procedure outlined in t
 ### Milestone 5: Strategy Design complete
 - [ ] Develop approach to support success in achieving objectives
 - [ ] Refine strategy with TOSI
-- [ ] Refine strategy with The Neuro community (potentially a workshop)
+- [ ] Refine strategy with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9))
 
 ### Milestone 6: Implementation tactics developed
 - [ ] Refinement and prioritization of activities in support of the strategy, including review of existing initiatives (see [Strategy Design](./docs/proposal-OSRP-RCMCoop.md#strategy-design))
 - [ ] Refine implementation with TOSI
-- [ ] Refine implementation with The Neuro community (potentially a workshop)
+- [ ] Refine implementation with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9))
 
 ### Milestone 7: Dissemination plan developed
 - [ ] Mechanisms to empower the community to raise awareness of the strategy so it can be incorporated into their operational planning
