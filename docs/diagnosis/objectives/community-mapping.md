@@ -72,3 +72,25 @@ Added Open Science in Action Seminar speakers and Chairs
 Need to get lists of:
 - Previous GRC members
 - Previous Cooper Prize reviewers
+
+### 2025-10-22
+
+Transferred Open Science in Action form "initiative" to "interaction" and linked people as "interaction-speakers"
+
+Thinking about what data is available to track engagement. 
+For most interactions TOSI have summary data e.g. "200 people attended", but this is not the right resolution for understanding where initiatives are reaching nor the pathways of people into leadership. 
+Where possible for the events which are being organized currently, I'll be asking the team to collect names of participants and noting their participation on the people list.
+We will also brainstorm in the team meeting tomorrow about what data they do currently hold at a fine enough level, e.g. applicants for awards (currently I only have recipients/runners up) and applicants for APC offset. 
+
+I'm going to work on adding labs to the "affiliations" list, to see where they have clusters of interest, or more importantly where they don't.
+This information is implicit to their operations at the moment, but i suggest to demonstrate it effectively will require more centralized data collection. 
+I'd also like to be able to clearly show the value of working closely to build engagement with targetted groups/individuals. 
+
+Going to push on tidying the data and running through the code for visualisation in kumu, to grow engagement about collecting this data. 
+There will be quite a a few areas of the [existing code](https://github.com/rcmcooperative/community-mapping/blob/main/code/sharepoint-to-kumu-xlsx.py) which need adapting. 
+
+I've taken the TOSI Leaders Group off the list for now, as I keep having to work around them (e.g. in missing emails).
+I think they are distant enough to exclude for this exercise, and will be easy to re-add at a later date.
+
+Remember in all of this that what you measure is what is (or becomes) important (or rather you should think about what you value when you set your measures). If we value diversity of engagement (e.g. getting people from different labs), then we should be recording this.
+
