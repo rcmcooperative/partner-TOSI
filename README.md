@@ -97,7 +97,7 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [x] Open call to The Neuro community to participate in Community Objective Interviews (see [Community Interviews: Take Part](./docs/diagnosis/objectives/community-interviews.md#take-part) 
 - [x] Infrastructure for collating invited interviewee list (see [Community Mapping](./docs/diagnosis/objectives/community-mapping.md))
 - [x] Interview scheduling and data collection infrastructure confirmed
-- [ ] Interview invitations sent
+- [x] Interview invitations sent
 - [ ] Publicise invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
 - [ ] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
 - [ ] Objectives refined with TOSI
