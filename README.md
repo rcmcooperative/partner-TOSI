@@ -145,29 +145,20 @@ This project is licensed under the CC-BY-4.0 License - see the [LICENSE](./LICEN
 
 ## Citing & Acknowledgement
 
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+### Citing this project
+
+Information to follow
+
+### Acknowledgement
+
+This repository uses the template created and maintained by The Turing Way team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+
 
 ## Contact
 
 All initial enquiries should be directed to the project lead, Cassandra "Cass" Gould van Praag (cassandra.gouldvanpraag@rcmcooperative.com).
 
 You can also direct message Cass on the **TOSI Slack workspace** - please email Cass for a slack invite link.
-
-
-
-### Checklist for setting an online repository 
-
-- [x] Add a README file
-- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [X] Add a [LICENSE](LICENSE.md)
-- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [x] Install [all-contributors](https://allcontributors.org/) bot
-- [x] .gitignore file (choose from a template)
-- [x] Create a directory with files for project management (meetings, reports, proposals)
-- [x] Create a directory for documentation
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
 
 
 ## Contributors
@@ -195,3 +186,17 @@ Thanks goes to these people for contributions to this work ([emoji key](https://
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+### Checklist for setting an online repository 
+
+- [x] Add a README file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [X] Add a [LICENSE](LICENSE.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Install [all-contributors](https://allcontributors.org/) bot
+- [x] .gitignore file (choose from a template)
+- [x] Create a directory with files for project management (meetings, reports, proposals)
+- [x] Create a directory for documentation
+- [x] Include acknowledgement of TTW reproducible project template 
+- [ ] Connect repo with Zenodo
+- [ ] Add cff file for citation
