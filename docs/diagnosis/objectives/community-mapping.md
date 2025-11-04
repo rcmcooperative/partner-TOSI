@@ -94,3 +94,14 @@ I think they are distant enough to exclude for this exercise, and will be easy t
 
 Remember in all of this that what you measure is what is (or becomes) important (or rather you should think about what you value when you set your measures). If we value diversity of engagement (e.g. getting people from different labs), then we should be recording this.
 
+### 2025-11-01
+- Added lab elements for all labs in all [research groups](https://www.mcgill.ca/neuro/research)
+- Considering adding all people from all labs, then we could see who we have engaged showcase filter). Unfortunately this data is incomplete from an external transparency perspective as it relies on each lab having an up to date lab page. The information will probably exist in HR records, but unlikely to be able to access that in an appropriate time frame for this project. Could be updated later.
+- Currently will show where we have touch through the presence of lab members on the map.
+
+### 2025-11-03
+- Added OS Helpers (dm from Luisa)
+- Luisa also shared applicants to internal awards. Not sure I've correctly understood or grouped awards, so will review with the team.
+- Will also review the broad categorisation I've created for "initiative types" (initially based on the TOSI teams grouping), and think about how this will be usefully visualized. For example, awards and the OS dashboard are both included as "incentives", but in filtering the data it would be useful to see award recipients seperately form contributors to the dashboard (although we don't yet have any contributors to the dashboard except Gabriel). Will look to see if any others need cleaning.
+
+

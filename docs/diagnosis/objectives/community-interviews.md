@@ -66,3 +66,24 @@ Continuing to build out email addresses of those in above lists.
 Incorporated Cooper Prize recipients and Open Science in Action speakers 2019-2024.
 
 Email invitations sent. Expect to send more if new members added from the list of passed GRC members.
+
+### 2025-11-04
+
+6 interviews completed, 6 further booked. 
+
+There are a large number of community sub-groups (as below), with intersectionality on each division. This has brought a lot of different perspectives. 
+Some of these groups have been observed (e.g. tool developers at lab tours), but interviews are understandably revealing valuable depth. 
+
+Sub groups:
+- PI
+- Post doc (staff)
+- Grad student
+- Under grad
+- Committee member (GRC, TC)
+- Award recipient
+- Tool developer
+- OS engaged (self selection into the interview process)
+
+
+Summaries of these to date currently recorded in private directory to avoid bias. 
+Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.

@@ -6,6 +6,8 @@ We welcome your thoughts and contributions to this material following the routes
 Cass is joining a variety of the interactions hosted by, for, and with relevance to TOSI, to observe the norms of behavior with respect to best practice in open science and research community management. 
 Learnings from these observations will be incorporated into the community strategy development where they support the objectives of the community. 
 
+Live notes on these observations are held [here (access restricted)](https://hackmd.io/@rcm-coop/S1etoBARee)
+
 
 ## Notebook
 *This file is being used as a lab note book, to keep track of activities associated with this task. A formal write up will be prepared at the end of this project*
@@ -21,6 +23,15 @@ Learnings from these observations will be incorporated into the community strate
 - 2025-10-10 - 1st Canadian Conference on Open Science and Open Scholarship (Day 2)
 - 2025-10-15 - The Neuro Open Science Grants Info Session
 - 2025-10-20 - The Neuro Info Session
+- 2025-10-28 - OSHO Lab Tours
+- 2025-10-31 - Presented RCM101 at Poline lab meeting
+
+- Offered to present at OSHO (emailed the team)
+- Offered to host community clinic for Poline lab
 
 ## Themes from observations
 These will remaining internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.
+
+Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.
+
+
