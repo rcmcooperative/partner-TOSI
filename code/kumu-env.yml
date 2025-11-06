@@ -1,0 +1,22 @@
+name: kumu_env
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+ - python=3.11
+ - ipython
+ - jupyter
+ - keras
+ - matplotlib
+ - nibabel
+ - notebook
+ - numpy
+ - pandas
+ - seaborn
+ - scikit-image
+ - scikit-learn
+ - scipy
+ - statsmodels
+ - tensorflow
+ - xlrd
+ - openpyxl
