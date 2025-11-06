@@ -104,4 +104,61 @@ Remember in all of this that what you measure is what is (or becomes) important 
 - Luisa also shared applicants to internal awards. Not sure I've correctly understood or grouped awards, so will review with the team.
 - Will also review the broad categorisation I've created for "initiative types" (initially based on the TOSI teams grouping), and think about how this will be usefully visualized. For example, awards and the OS dashboard are both included as "incentives", but in filtering the data it would be useful to see award recipients seperately form contributors to the dashboard (although we don't yet have any contributors to the dashboard except Gabriel). Will look to see if any others need cleaning.
 
+### 2025-11-04
+- List of presenters of Open Science Lab Tours received. 
+- Recategorised Lab tours from an "initiative" to interaction, and added the above list as speakers
+- Spent some time with Luisa unpacking areas I felt there was confusion about:
+
+#### Grants vs awards
+- Grants are project applications
+- Awards are track record of accompliments
+    - Except Launchpad (UG)
+        - Track record not reviewed
+        - Comes from different budget envelopes
+        - So listed in the "awards" page, but is actually more of a grant 
+- Redid the initiative types to make the above practical distinctions clear
+    - previous category types based on TOSI's miro (the link for this is in [Luisa's notes](https://mcgill.sharepoint.com/:w:/r/sites/TOSI_Group/Shared%20Documents/Community%20Officer%20Initiatives/Open%20Scientist%20in%20Residence%20Program/2025/OSRP%20meeting%20notes_2025%20edition.docx?d=w87f3a01b43be4468990788f03f0c00d4&csf=1&web=1&e=L7NTxK), which I can't seem to access now... )
+    - New category types:
+        - committee
+        - training-education
+        - support-infrastructure
+        - incentives
+        - metrics-impact
+        - outreach-community
+        - contribution-recognition
+        - funding-projects
+        - funding-open-access
+- Requesting a list of who has applied for APC funding from Gabriel
+
+#### TOSI Trainee Council vs The Neuro Trainee Committee vs OSHO
+- TOSI Trainee Council is McGill wide, hence includes Douglas folks
+    - Now confirmed who is leadership on this committee and updated others to -initiative-participant
+- OSHO is separate from TOSI Trainee Council, but has overlap via Navid
+
+#### Add Best practive guides 
+- https://www.mcgill.ca/neuro/open-science/open-science-best-practices
+- Contributors well listed on the two guides currently available
+    - Adding these has added lots of new people and connections.
+    - It would be interesting to understand if/how this was conducted differently or engagement activated
+
+#### Core facilities
+- https://www.mcgill.ca/neuro/research
+- These now all added as "core-facilities" in affiliations list
+- Azrieli Centre = "Centre" not "core facility"
+- core facilities are all Neuro affiliated
+- Spiralled out to generate connections with Ludmer Centre
+    
+#### Partnerships
+- https://www.mcgill.ca/neuro/research/partnerships
+- not adding for now as it is not clear what value these will add the the map in the first instance, and not clear how these are defined
+
+#### OSHO resources
+- https://openscienceofficehours.github.io/osoh_website/FEATURED-open-science-resources/
+- Not adding these for now, as many are non-Neuro and will take a lot of resource to review
+- Happy that we've captured a good bunch in our exiting tool set, and present with ambition for self services. 
+
+#### Open Science in Action Symposium 
+- For some years had a organisers tab, but not all. These people have been added to "leadership" for that year
+- 2023 also had named people at Networking, but not consistently on the program
+
 

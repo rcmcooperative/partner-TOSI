@@ -76,6 +76,8 @@ Some of these groups have been observed (e.g. tool developers at lab tours), but
 
 Sub groups:
 - PI
+- MD
+- PhD
 - Post doc (staff)
 - Grad student
 - Under grad
@@ -87,3 +89,13 @@ Sub groups:
 
 Summaries of these to date currently recorded in private directory to avoid bias. 
 Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.
+
+### Team meeting 
+- I suggested that we pull the community event we had tabled for w/b 17th November, for the following reasons:
+1. Significant reduction in administrative resource available due to staffing changes at TOSI
+2. Prioritize further interviews to improve chances of reaching consensus across diverse population
+3. While these events had been planned to build ideas around new initiatives, it may be more appropriate for this group to conduct expert review at this early stage and bring in the community for a later process (e.g. to co-design or approve suggestions)
+
+- Aiming to push for a further 2 weeks of interviews.
+- I will do another mail-out, and look to connect with Research Group leaders for any opportunities to present (be visible)
+- Once The map is visualized, I will also use this to specifically target core groups
