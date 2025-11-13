@@ -1,0 +1,105 @@
+@controls {
+  top-left {
+    search {}
+
+    showcase {
+      target: element;
+      by: "kumu-type";
+      as: dropdown;
+      multiple: true;
+      default: show-all;
+      label: "showcase by type";
+    }
+
+    filter {
+      target: element;
+      by: "kumu-conesnt";
+      as: dropdown;
+      multiple: true;
+      default: show-all;
+      label: "filter by consent for mapping";
+    }
+
+    showcase {
+      target: element;
+      by: "interaction-participant";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by interaction-participant";
+    }
+
+    showcase {
+      target: element;
+      by: "interaction-leadership";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by interaction-leadership";
+    }
+
+    showcase {
+      target: element;
+      by: "interaction-speaker";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by interaction-speaker";
+    }
+
+    showcase {
+      target: element;
+      by: "initiative-participant";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by initiative-participant";
+    }
+
+    showcase {
+      target: element;
+      by: "initiative-leadership";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by initiative-leadership";
+    }
+
+    showcase {
+      target: element;
+      by: "funding-recipient";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by funding-recipient";
+    }
+
+    showcase {
+      target: element;
+      by: "funding-applicant";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by funding-applicant";
+    }
+  }
+
+  top {
+    sna-dashboard {}
+  }
+}
+
+@settings {
+  template: stakeholder;
+  element-shape: categorize("kumu-type");
+  element-scale: scale("kumu-size", 0.5, 3);
+  element-color: categorize("kumu-type", #37A02D, #6A3D9A, #FEBE6F, #FF7F07, #FEF497, #2079B4, #CAB2D5, #E31A1C, #000000, #8AE33A, #00CCFF);
+}
+

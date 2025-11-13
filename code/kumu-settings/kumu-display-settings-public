@@ -1,0 +1,66 @@
+@controls {
+  top-left {
+    search {}
+
+    filter {
+      target: element;
+      by: "type-what";
+      as: dropdown;
+      multiple: true;
+      default: show-all;
+      label: "FILTER BY TYPE";
+    }
+
+    filter {
+      target: element;
+      by: "consent-kumu";
+      as: dropdown;
+      multiple: true;
+      default: show-all;
+      label: "FILTER BY CONSENT FOR MAPPING (indeitfiable of anonymous)";
+    }
+
+    showcase {
+      target: element;
+      by: "country";
+      as: dropdown;
+      multiple: true;
+      default: show-all;
+      mode: normal;
+      label: "SHOWCASE BY COUNTRY";
+    }
+  }
+
+  bottom-right {
+    text {
+      value: "ADD YOURSELF TO THIS MAP: https://forms.office.com/e/ws9EHtiLkV";
+      margin: 10;
+    }
+
+    text {
+      value: "CONTACT: cgouldvanpraag@turing.ac.uk";
+      margin: 10;
+    }
+
+    text {
+      value: "GDPR STATEMENT:";
+      margin: 0.5;
+    }
+
+    text {
+      value: "Data in this map includes names, email address, web profiles, affiliations and research projects. The data were acquired through instutional knowledge and desk research. Individuals can choose to be identifiable, anonymous, or not appear on the public map. We also hold (but do not share) assessments of influence, engagement and relationship strategy. A Data Protection Assessment Process review for this project found the processing to be lawful and low risk. Data is stored on Turing approved servers, and by Kumu for Turing purposes and according to the Turing's instructions, under the restrictions of their DPA (https://kumu.io/gdpr). For the Turing's general privacy notice, including data retention policies, please see https://www.turing.ac.uk/privacy-policy";
+      text-align: right;
+      width: 400;
+      margin: 1;
+    }
+  }
+}
+
+@settings {
+  template: stakeholder;
+  element-shape: categorize("type-what");
+  element-scale: scale("size", 0.5, 3);
+  element-color: categorize("type-what", #3EB833, #6A3D9A, #FEBE6F, #FF7F07, #FEF497, #2079B4, #CAB2D5, #E31A1C);
+  background-color: #F2F2F2;
+}
+
