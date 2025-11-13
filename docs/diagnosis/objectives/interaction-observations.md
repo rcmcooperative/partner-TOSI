@@ -25,6 +25,8 @@ Live notes on these observations are held [here (access restricted)](https://hac
 - 2025-10-20 - The Neuro Info Session
 - 2025-10-28 - OSHO Lab Tours
 - 2025-10-31 - Presented RCM101 at Poline lab meeting
+- 2025-11-10 - Feindel Brain and Mind Series: Making Medical AI Reproducible (Julien Cohen-Adad)
+- 2025-11-10 - Cooper Prize Seminar
 
 - Offered to present at OSHO (emailed the team)
 - Offered to host community clinic for Poline lab

@@ -107,7 +107,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
 ### 2025-11-04
 - List of presenters of Open Science Lab Tours received. 
 - Recategorised Lab tours from an "initiative" to interaction, and added the above list as speakers
-- Spent some time with Luisa unpacking areas I felt there was confusion about:
+- Spent some time with Luisa unpacking areas I felt there was confusion about and setting up the activities for 2025-11-05
 
 #### Grants vs awards
 - Grants are project applications
@@ -128,14 +128,22 @@ Remember in all of this that what you measure is what is (or becomes) important 
         - contribution-recognition
         - funding-projects
         - funding-open-access
-- Requesting a list of who has applied for APC funding from Gabriel
+- Added the history obtained from Luisa about who has applied for these programms
+    - ==Still to add details from here: https://mcgill.sharepoint.com/:x:/s/TOSI_Group/ETN2_lmOKi1Gnuh9sIQiRHQBHfUYP77nl7LEUx7Gph_9PQ==
+    - Note that the current data structure is not identifying who was successful in awards, and what year they applied. 
+    This would need restructuring, which we don't have resource for at the moment.
+- Requesting a list of who has applied for APC funding from Gabriel - received and added.
+    - Lots of labs have only engaged via APC Offset programme. This suggests this is a valuable gateway to build engagement.
 
 #### TOSI Trainee Council vs The Neuro Trainee Committee vs OSHO
 - TOSI Trainee Council is McGill wide, hence includes Douglas folks
     - Now confirmed who is leadership on this committee and updated others to -initiative-participant
 - OSHO is separate from TOSI Trainee Council, but has overlap via Navid
 
-#### Add Best practive guides 
+
+### 2025-11-05
+
+#### Add Best practice guides 
 - https://www.mcgill.ca/neuro/open-science/open-science-best-practices
 - Contributors well listed on the two guides currently available
     - Adding these has added lots of new people and connections.
@@ -160,5 +168,75 @@ Remember in all of this that what you measure is what is (or becomes) important 
 #### Open Science in Action Symposium 
 - For some years had a organisers tab, but not all. These people have been added to "leadership" for that year
 - 2023 also had named people at Networking, but not consistently on the program
+
+#### Data wrangling for kumu
+- pulled the code and evn.yml to convert to kumu from rcmcoop repo
+- Tested the env and having a read through to refamiliarise! 
+- On the actual visualization, for proof of concept it will be sufficient to have people, affiliations and tools as elements, with initiatives and interactions as metadata. 
+- For initiatives, collapse the name to also include initiative type, so then can filter/showcase by e.g. "funding-project-x, y, z".
+- Also add a initiative-engagement-count, so you can see who has been a repeat organiser
+- For interactions lets keep the name as it is (they are unique enough and there are not too many), but also add a "count" 
+
+### 2025-11-06
+- Reviewing (and implementing) column validation rules (e.g. [no spaces in emails](https://github.com/rcmcooperative/community-mapping/blob/main/docs/how-we-map-sharepoint-lists.md#email))
+    - Remember to put filed names in [] in validation formulae
+        - Only seems to work if you enter the validation via the whole list settings page, not via column>edit
+    - Decided to put "no commas" warning on every free text time and pick lists, to make it easier to create links later on (commas are interpreted as new cells in my code)
+- Need to remember to add something in usage not to change the column headers, otherwise valuation will break
+- Aiming to remove as much processing as possible from the script, so the data available in the lists matches what is in kumu
+- Added a consent option "consent-not-invited" and set this to default for new items in the people list.
+Updated all people entries to "consent-not-invited" 
+- Setting element sizes by type:
+University = 100
+Faculty = 80
+Department = 70
+Institute = 60
+Research group = 50
+Centre = 40
+Core facility = 30
+Lab = 20
+Tool = 10
+People = 1
+- Using calculated value
+    - Tried with formula `=SWITCH([kumu-size],"university",100,"faculty",80,"department",70,"institute",60,"research group",50,"centre",40,"core-facility",30,"lab",20,"")` but switch is not available in sharepoint lists. Have to use nested if instead
+    - `=IF([kumu-type]="university",100,IF([kumu-type]="faculty",80,IF([kumu-type]="department",70,IF([kumu-type]="institute",60,IF([kumu-type]="research group",50,IF([kumu-type]="centre",40,IF([kumu-type]="core-facility",30,IF([kumu-type]="lab",20,""))))))))`
+    - Had to create a new column of the type "calculate" rather than a choice with numbers
+- Tried to create a calculation based on how many initiatives-participant per row, but sharepoint can't do calculations on look-up columns or multiple choice columns
+- changed name-initiative to enforce unique values
+- Not completed all validation settings on tools list
+
+### 2025-11-10
+- Had to add anonymizedf (via pip) to the conda env! Updated the yml
+- Debugging code
+
+### 2025-11-11
+- Debugging code (now running)
+- Setting up [kumu display settings](../../../code/kumu-settings/kumu-display-settings-internal)
+- Map shows lots of affiliations missing - fulled in where I can
+- Thinking about how we manage the award/grant data, I had previously grouped recipients and applicants together as "participants". This was a mistake, as they show different things. 
+- Now I've created an initiative item per year, and lookups in the people list for "funding-recipient" and "funding-applicant". 
+- Aim is to put all financial incentives together in these lookups
+- Not moved to these lookups yet:
+    - APC offset (split into years)
+    - Cooper prize recipients (if any were Neuro)
+    - Badges (they do come with $100)
+- Now wondering if the GRC and TC committees should be split up by year, so you can see who is on there currently and who is passed... Probably should be...
+- This might leave only commitees in the initative-participant etc. lookups, so it would make sense to rename this, and make it easier to showcase them all together
+- Also added the affiliation type name, (e.g. Poline => Poline Lab), to make it a bit easier to read in the map. Added other missing affiliation types
+- Also had to delete the "tool-user" lookup to make the "funding-recipient" etc. lookups, as sharepoint had reached the max number of lookups...
+- Although Hatrock has a first and runner up prize, I've decided to group these together and note as runner up in the notes, so we have some space for more lookups later. Hatrock was the only one which had an explicit "runner up", so doesn't add much value to have it as a separate field (which would require a separate showcase in kumu).
+- Vis is looking good! Changing the of items so The Neuro is the biggest (currently Universities are the biggest).
+- Making sure all PIs are affiliated with their labs only, then labs are affiliated with centres etc. 
+- When uploading data to kumu, there is a box tick option to override existing data. I'm ticking this, but not sure it's all being cleared (remembered this from previous projects too). I'm going to upload a completely blank list of elements and connections, to wipe the slate.
+- Just found this useful [list of units at BIC](https://www.mcgill.ca/bic/about-us-1/staff). I've changed labs who I had as affiliated with BIC to the units given her. Remember that we're not plotting everyone, just the ones we have touch on (and The Neuro specific labs), so there are other PIs at BIC who we're aren't collecting. 
+- Made a thing to count the total number of engagements per element, to showcase single vs repeat engagers (note however that we're not yet recording everything that should be recorded to really understand who is most engaged! e.g. attendance at events)
+
+### 2025-11-12
+- Got access to the unsuccessful applications internal awards. Now added affiliations.
+- Got access to Helpers programme placements. Now added.
+- Note I've not added the data of who I've spoken with in these interviews, to keep them anonymous.
+
+
+
 
 
