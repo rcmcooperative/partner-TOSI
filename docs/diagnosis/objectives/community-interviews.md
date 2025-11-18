@@ -99,3 +99,9 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
 - Aiming to push for a further 2 weeks of interviews.
 - I will do another mail-out, and look to connect with Research Group leaders for any opportunities to present (be visible)
 - Once The map is visualized, I will also use this to specifically target core groups
+
+### 2025-11-18
+Compiling themes in kumu syntax to create a mind map ~./private/community-objectives-kumu.xlsx
+
+Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.
+

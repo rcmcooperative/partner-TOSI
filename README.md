@@ -98,7 +98,7 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [x] Infrastructure for collating invited interviewee list (see [Community Mapping](./docs/diagnosis/objectives/community-mapping.md))
 - [x] Interview scheduling and data collection infrastructure confirmed
 - [x] Interview invitations sent
-- [ ] Publicise invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
+- [x] Publicize invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
 - [ ] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
 - [ ] Objectives refined with TOSI
 
@@ -110,12 +110,12 @@ The strategic analysis is being undertaken following the procedure outlined in t
 ### Milestone 5: Strategy Design complete
 - [ ] Develop approach to support success in achieving objectives
 - [ ] Refine strategy with TOSI
-- [ ] Refine strategy with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9))
+- [ ] Refine strategy with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9)) - Note this is unlikely to go ahead within the time frame of this project due to changes in resourcing and focus.
 
 ### Milestone 6: Implementation tactics developed
 - [ ] Refinement and prioritization of activities in support of the strategy, including review of existing initiatives (see [Strategy Design](./docs/proposal-OSRP-RCMCoop.md#strategy-design))
 - [ ] Refine implementation with TOSI
-- [ ] Refine implementation with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9))
+- [ ] Refine implementation with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9)) - Note this is unlikely to go ahead within the time frame of this project due to changes in resourcing and focus.
 
 ### Milestone 7: Dissemination plan developed
 - [ ] Mechanisms to empower the community to raise awareness of the strategy so it can be incorporated into their operational planning

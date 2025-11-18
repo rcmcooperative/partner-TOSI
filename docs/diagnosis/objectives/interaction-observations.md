@@ -30,9 +30,13 @@ Live notes on these observations are held [here (access restricted)](https://hac
 
 - Offered to present at OSHO (emailed the team)
 - Offered to host community clinic for Poline lab
+- Offered presentation on RCM for Evans lab
+- Offered presentation on RCM for La Piana lab
 
 ## Themes from observations
 These will remaining internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.
+
+Compiling themes in kumu syntax to create a mind map ~./private/community-objectives-kumu.xlsx
 
 Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.
 
