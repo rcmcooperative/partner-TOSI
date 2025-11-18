@@ -1,6 +1,5 @@
 <a id="top-of-section"></a>
 
-
 # RCM Cooperative strategy for community engagement in open science at The Neuro
 [![DOI](https://zenodo.org/badge/999831585.svg)](https://doi.org/10.5281/zenodo.17643336)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -8,10 +7,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
+This repository details the development and design of a community engagement strategy for Open Science at [The Neuro Montreal Neurological Institute-Hospital, McGill University](https://www.mcgill.ca/neuro/). 
 
-This repository details the development and design of a community engagement strategy for Open Science at [The Neuro, McGill University](https://www.mcgill.ca/neuro/). 
-
-This work has been comissioned by The Neuro’s [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), under the Open Scientist in Residence Program, September - December 2025.
+This work has been commissioned by The Neuro’s [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), under the Open Scientist in Residence Program, September - December 2025.
 
 ---
 ## Contents
@@ -151,7 +149,8 @@ This project is licensed under the CC-BY-4.0 License - see the [LICENSE](./LICEN
 
 ### Citing this project
 
-Information to follow
+Please cite this work as:
+> Cassandra Gould van Praag. (2025). RCM Cooperative strategy for community engagement in open science at The Neuro. Zenodo. https://doi.org/10.5281/zenodo.17643336
 
 ### Acknowledgement
 
