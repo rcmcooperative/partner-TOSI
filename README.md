@@ -201,5 +201,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - [x] Create a directory with files for project management (meetings, reports, proposals)
 - [x] Create a directory for documentation
 - [x] Include acknowledgement of TTW reproducible project template 
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
+- [x] Connect repo with Zenodo
+- [x] Add cff file for citation
