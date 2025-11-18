@@ -24,7 +24,7 @@ Live notes on these observations are held [here (access restricted)](https://hac
 - 2025-10-15 - The Neuro Open Science Grants Info Session
 - 2025-10-20 - The Neuro Info Session
 - 2025-10-28 - OSHO Lab Tours
-- 2025-10-31 - Presented RCM101 at Poline lab meeting
+- 2025-10-31 - Presented RCM101 at Poline lab meeting (slides: https://doi.org/10.5281/zenodo.17489925)
 - 2025-11-10 - Feindel Brain and Mind Series: Making Medical AI Reproducible (Julien Cohen-Adad)
 - 2025-11-10 - Cooper Prize Seminar
 
