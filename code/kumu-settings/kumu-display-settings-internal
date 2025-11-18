@@ -89,6 +89,16 @@
       mode: normal;
       label: "showcase by funding-applicant";
     }
+
+    showcase {
+      target: element;
+      by: "engagement-count-total";
+      as: dropdown;
+      multiple: true;
+      default: select-none;
+      mode: normal;
+      label: "showcase by engagement-count-total";
+    }
   }
 
   top {
