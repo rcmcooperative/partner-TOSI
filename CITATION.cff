@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  RCM Cooperative strategy for community engagement in open
+  science at The Neuro
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gould van Praag
+    family-names: Cassandra
+    email: cassandra.gouldvanpraag@rcmcooperative.com
+    affiliation: RCM Cooperative
+    orcid: 'https://orcid.org/0000-0002-8584-4637'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17643336
+repository-code: 'https://github.com/rcmcooperative/partner-TOSI'
+abstract: >-
+  This repository details the development and design of a
+  community engagement strategy for Open Science at The
+  Neuro Montreal Neurological Institute-Hospital, McGill
+  University (https://www.mcgill.ca/neuro/). 
+
+
+  This work has been commissioned by The Neuro’s Tanenbaum
+  Open Science Institute
+  (TOSI)(https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi),
+  under the Open Scientist in Residence Program, September -
+  December 2025.

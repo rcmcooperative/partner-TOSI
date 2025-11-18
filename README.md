@@ -1,9 +1,13 @@
 <a id="top-of-section"></a>
 
+
 # RCM Cooperative strategy for community engagement in open science at The Neuro
+[![DOI](https://zenodo.org/badge/999831585.svg)](https://doi.org/10.5281/zenodo.17643336)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
 
 This repository details the development and design of a community engagement strategy for Open Science at [The Neuro, McGill University](https://www.mcgill.ca/neuro/). 
 
