@@ -18,7 +18,7 @@ Public share of a community map is also a valuable tool for community members to
 
 ### 2025-09-29
 
-This phase of work has been brought forward from [the proposal](../../proposal-OSRP-RCMCoop.md) so it can be used to manage contacts for invitation to interview. The structure and settings are broadly being followed as per our [previously developed structure](http://github.com/rcmcooperative/community-mapping). Additional lists have been generated where notes below. 
+This phase of work has been brought forward from [the proposal](../../proposal-OSRP-RCMCoop.md) so it can be used to manage contacts for invitation to interview. The structure and settings are broadly being followed as per our [previously developed structure](http://github.com/rcmcooperative/community-mapping). Additional lists have been generated where noted below. 
 
 **Notes these lists contain identifiable information and are accessible only to immediate project members. Sharing is currently managed by [Luisa Pimentel](../../../README.md#team-members)**
 
@@ -246,6 +246,9 @@ Updated all people entries to "consent-not-invited"
 ### 2025-11-18
 - User `gabrielp` (Gabriel Pelletier) has been added to the kumu map as a contributor.
 - Either Gabriel or myself will need to have a paid account to add him as a manager on the map.
+- Now have access to [grant applications](https://mcgill.sharepoint.com/sites/TOSI_Group/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTOSI%5FGroup%2FShared%20Documents%2Fprizes%5Fawards%5Ffunding%2Fneuro%5Fopen%5Fscience%5Fgrants&viewid=f986b468%2D5c06%2D4f4b%2D96dc%2Decdb8bad5804) to review who has applied and their affiliations - now added, inc 2025 applicants
+- So much effort is going into preparing these applications, but so few are funded. While this is valuable exercise for trainees, it is a shame that the capacity for experimentation an innovation is being limited. Would love to explore what can be done with no or minimal funding. 
+- 8 new contacts added in this years grant applications (where applications were not open to labs which had previously received funding). While this looks promising, it is not a self sustaining method for growing reach. Also not able to disentangle whether this came from lab tours widening awareness or specific exclusion criteria.
 
 
 

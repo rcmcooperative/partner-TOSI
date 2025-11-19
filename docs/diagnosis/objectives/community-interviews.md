@@ -102,4 +102,6 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
 
 ### 2025-11-18
 - Compiling themes in kumu syntax to create a mind map ~./private/community-objectives-kumu.xlsx
+- Added themes from observations, interviews and meetings into a single space. 
+- Careful not to add conclusions of Lab Tours to my identified themes, to avoid circularity - hope to show independent and complementary alignment as both exercises focused on different sub-groups of the community. 
 
