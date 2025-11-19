@@ -101,7 +101,5 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
 - Once The map is visualized, I will also use this to specifically target core groups
 
 ### 2025-11-18
-Compiling themes in kumu syntax to create a mind map ~./private/community-objectives-kumu.xlsx
-
-Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.
+- Compiling themes in kumu syntax to create a mind map ~./private/community-objectives-kumu.xlsx
 

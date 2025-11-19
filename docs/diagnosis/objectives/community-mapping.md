@@ -170,7 +170,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
 - 2023 also had named people at Networking, but not consistently on the program
 
 #### Data wrangling for kumu
-- pulled the code and evn.yml to convert to kumu from rcmcoop repo
+- pulled the [code](~./code/community-mapping-sharepoint-to-kumu-xlsx.py) and [env.yml]((~./code/kumu-env.yml) to convert to kumu from rcmcoop repo
 - Tested the env and having a read through to refamiliarise! 
 - On the actual visualization, for proof of concept it will be sufficient to have people, affiliations and tools as elements, with initiatives and interactions as metadata. 
 - For initiatives, collapse the name to also include initiative type, so then can filter/showcase by e.g. "funding-project-x, y, z".
@@ -187,16 +187,16 @@ Remember in all of this that what you measure is what is (or becomes) important 
 - Added a consent option "consent-not-invited" and set this to default for new items in the people list.
 Updated all people entries to "consent-not-invited" 
 - Setting element sizes by type:
-University = 100
-Faculty = 80
-Department = 70
-Institute = 60
-Research group = 50
-Centre = 40
-Core facility = 30
-Lab = 20
-Tool = 10
-People = 1
+    - University = 100
+    - Faculty = 80
+    - Department = 70
+    - Institute = 60
+    - Research group = 50
+    - Centre = 40
+    - Core facility = 30
+    - Lab = 20
+    - Tool = 10
+    - People = 1
 - Using calculated value
     - Tried with formula `=SWITCH([kumu-size],"university",100,"faculty",80,"department",70,"institute",60,"research group",50,"centre",40,"core-facility",30,"lab",20,"")` but switch is not available in sharepoint lists. Have to use nested if instead
     - `=IF([kumu-type]="university",100,IF([kumu-type]="faculty",80,IF([kumu-type]="department",70,IF([kumu-type]="institute",60,IF([kumu-type]="research group",50,IF([kumu-type]="centre",40,IF([kumu-type]="core-facility",30,IF([kumu-type]="lab",20,""))))))))`
@@ -204,10 +204,12 @@ People = 1
 - Tried to create a calculation based on how many initiatives-participant per row, but sharepoint can't do calculations on look-up columns or multiple choice columns
 - changed name-initiative to enforce unique values
 - Not completed all validation settings on tools list
+- Updated size calculation to make The Neuro biggest and easier to find on the map:
+    - `=IF([name-affiliation]="The Neuro",100,IF([kumu-type]="university",100,IF([kumu-type]="faculty",80,IF([kumu-type]="department",70,IF([kumu-type]="institute",60,IF([kumu-type]="research group",50,IF([kumu-type]="centre",40,IF([kumu-type]="core-facility",30,IF([kumu-type]="lab",20,"")))))))))`
 
 ### 2025-11-10
-- Had to add anonymizedf (via pip) to the conda env! Updated the yml
-- Debugging code
+- Had to add anonymizedf (via pip) to the [conda env](~./code/kumu-env.yml)! Updated the yml
+- Debugging [code](~./code/community-mapping-sharepoint-to-kumu-xlsx.py)
 
 ### 2025-11-11
 - Debugging code (now running)
@@ -235,6 +237,17 @@ People = 1
 - Got access to the unsuccessful applications internal awards. Now added affiliations.
 - Got access to Helpers programme placements. Now added.
 - Note I've not added the data of who I've spoken with in these interviews, to keep them anonymous.
+
+### 2025-11-13
+- Map shared with TOSI team. 
+- Available at https://kumu.io/cassgvp/tosi-internal (private kumu project)
+- Note the code is also generating a deidentified dataset for kumu, but I've not reviewed or tested this. 
+
+### 2025-11-18
+- User `gabrielp` (Gabriel Pelletier) has been added to the kumu map as a contributor.
+- Either Gabriel or myself will need to have a paid account to add him as a manager on the map.
+
+
 
 
 
