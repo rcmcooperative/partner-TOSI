@@ -7,7 +7,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
-This repository details the development and design of a community engagement strategy for Open Science at [The Neuro Montreal Neurological Institute-Hospital, McGill University](https://www.mcgill.ca/neuro/). 
+This repository details the development and design of a community engagement strategy for Open Science at [The Neuro Montreal Neurological Institute-Hospital, McGill University](https://www.mcgill.ca/neuro/), delivered by [RCM Cooperative](http://rcmcooperative.com/).
 
 This work has been commissioned by The Neuro’s [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), under the Open Scientist in Residence Program, September - December 2025.
 
@@ -102,6 +102,7 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [x] Interview invitations sent
 - [x] Publicize invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
 - [ ] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
+- [ ] Exploration of Incentives with GRC
 - [ ] Objectives refined with TOSI
 
 ### Milestone 4: (Diagnosis) Baseline
@@ -126,7 +127,7 @@ The strategic analysis is being undertaken following the procedure outlined in t
 ## The Team
 
 ### Team members
-- Cassandra "Cass" Gould van Praag - Executive Director, RCM Cooperative (cassandra.gouldvanpraag@rcmcooperative.com)
+- Cassandra "Cass" Gould van Praag - Executive Director, [RCM Cooperative](http://rcmcooperative.com/) (cassandra.gouldvanpraag@rcmcooperative.com)
 - [Luisa Pimentel - Open Science Community Officer, TOSI](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi)
 - [Annabel Seyller - CEO, TOSI](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi)
 - Other contributions have also been made by those listed in [Contributors](#contributors)
