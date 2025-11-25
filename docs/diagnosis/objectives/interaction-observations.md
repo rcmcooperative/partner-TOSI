@@ -29,9 +29,9 @@ Live notes on these observations are held [here (access restricted)](https://hac
 - 2025-11-10 - Cooper Prize Seminar
 
 - Offered to present at OSHO (emailed the team)
-- Offered to host community clinic for Poline lab
+- Offered to host community clinic for Poline lab - scheduling
 - Offered presentation on RCM for Evans lab
-- Offered presentation on RCM for La Piana lab
+- Offered presentation on RCM for La Piana lab - booked for 2025-12-10
 
 ## Themes from observations
 These will remaining internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.
