@@ -105,3 +105,12 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
 - Added themes from observations, interviews and meetings into a single space. 
 - Careful not to add conclusions of Lab Tours to my identified themes, to avoid circularity - hope to show independent and complementary alignment as both exercises focused on different sub-groups of the community. 
 
+### 2025-11-19
+- Leading a reflections exercise at upcoming GRC on incentives to contribute to OS. Contributions at https://tinyurl.com/TOSI-GRC-2025-11 (confidential, password protected)
+
+### 2025-11-25
+- Closing interview booking. Final numbers below (total = 17):
+    - PIs: 6
+    - Staff: 5
+    - Trainees: 6
+
