@@ -84,7 +84,7 @@ We will also brainstorm in the team meeting tomorrow about what data they do cur
 
 I'm going to work on adding labs to the "affiliations" list, to see where they have clusters of interest, or more importantly where they don't.
 This information is implicit to their operations at the moment, but i suggest to demonstrate it effectively will require more centralized data collection. 
-I'd also like to be able to clearly show the value of working closely to build engagement with targetted groups/individuals. 
+I'd also like to be able to clearly show the value of working closely to build engagement with targeted groups/individuals. 
 
 Going to push on tidying the data and running through the code for visualisation in kumu, to grow engagement about collecting this data. 
 There will be quite a a few areas of the [existing code](https://github.com/rcmcooperative/community-mapping/blob/main/code/sharepoint-to-kumu-xlsx.py) which need adapting. 
@@ -102,7 +102,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
 ### 2025-11-03
 - Added OS Helpers (dm from Luisa)
 - Luisa also shared applicants to internal awards. Not sure I've correctly understood or grouped awards, so will review with the team.
-- Will also review the broad categorisation I've created for "initiative types" (initially based on the TOSI teams grouping), and think about how this will be usefully visualized. For example, awards and the OS dashboard are both included as "incentives", but in filtering the data it would be useful to see award recipients seperately form contributors to the dashboard (although we don't yet have any contributors to the dashboard except Gabriel). Will look to see if any others need cleaning.
+- Will also review the broad categorisation I've created for "initiative types" (initially based on the TOSI teams grouping), and think about how this will be usefully visualized. For example, awards and the OS dashboard are both included as "incentives", but in filtering the data it would be useful to see award recipients separately form contributors to the dashboard (although we don't yet have any contributors to the dashboard except Gabriel). Will look to see if any others need cleaning.
 
 ### 2025-11-04
 - List of presenters of Open Science Lab Tours received. 
@@ -111,13 +111,13 @@ Remember in all of this that what you measure is what is (or becomes) important 
 
 #### Grants vs awards
 - Grants are project applications
-- Awards are track record of accompliments
+- Awards are track record of accompaniments
     - Except Launchpad (UG)
         - Track record not reviewed
         - Comes from different budget envelopes
         - So listed in the "awards" page, but is actually more of a grant 
 - Redid the initiative types to make the above practical distinctions clear
-    - previous category types based on TOSI's miro (the link for this is in [Luisa's notes](https://mcgill.sharepoint.com/:w:/r/sites/TOSI_Group/Shared%20Documents/Community%20Officer%20Initiatives/Open%20Scientist%20in%20Residence%20Program/2025/OSRP%20meeting%20notes_2025%20edition.docx?d=w87f3a01b43be4468990788f03f0c00d4&csf=1&web=1&e=L7NTxK), which I can't seem to access now... )
+    - previous category types based on TOSI's miro board of structure and initiatives (the link for this is in [Luisa's notes](https://mcgill.sharepoint.com/:w:/r/sites/TOSI_Group/Shared%20Documents/Community%20Officer%20Initiatives/Open%20Scientist%20in%20Residence%20Program/2025/OSRP%20meeting%20notes_2025%20edition.docx?d=w87f3a01b43be4468990788f03f0c00d4&csf=1&web=1&e=L7NTxK), which I can't seem to access now... )
     - New category types:
         - committee
         - training-education
@@ -128,7 +128,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
         - contribution-recognition
         - funding-projects
         - funding-open-access
-- Added the history obtained from Luisa about who has applied for these programms
+- Added the history obtained from Luisa about who has applied for these programs
     - ==Still to add details from here: https://mcgill.sharepoint.com/:x:/s/TOSI_Group/ETN2_lmOKi1Gnuh9sIQiRHQBHfUYP77nl7LEUx7Gph_9PQ==
     - Note that the current data structure is not identifying who was successful in awards, and what year they applied. 
     This would need restructuring, which we don't have resource for at the moment.
@@ -214,7 +214,7 @@ Updated all people entries to "consent-not-invited"
 ### 2025-11-11
 - Debugging code (now running)
 - Setting up [kumu display settings](../../../code/kumu-settings/kumu-display-settings-internal)
-- Map shows lots of affiliations missing - fulled in where I can
+- Map shows lots of affiliations missing - filled in where I can
 - Thinking about how we manage the award/grant data, I had previously grouped recipients and applicants together as "participants". This was a mistake, as they show different things. 
 - Now I've created an initiative item per year, and lookups in the people list for "funding-recipient" and "funding-applicant". 
 - Aim is to put all financial incentives together in these lookups
@@ -223,11 +223,11 @@ Updated all people entries to "consent-not-invited"
     - Cooper prize recipients (if any were Neuro)
     - Badges (they do come with $100)
 - Now wondering if the GRC and TC committees should be split up by year, so you can see who is on there currently and who is passed... Probably should be...
-- This might leave only commitees in the initative-participant etc. lookups, so it would make sense to rename this, and make it easier to showcase them all together
+- This might leave only committees in the initiative-participant etc. lookups, so it would make sense to rename this, and make it easier to showcase them all together
 - Also added the affiliation type name, (e.g. Poline => Poline Lab), to make it a bit easier to read in the map. Added other missing affiliation types
 - Also had to delete the "tool-user" lookup to make the "funding-recipient" etc. lookups, as sharepoint had reached the max number of lookups...
 - Although Hatrock has a first and runner up prize, I've decided to group these together and note as runner up in the notes, so we have some space for more lookups later. Hatrock was the only one which had an explicit "runner up", so doesn't add much value to have it as a separate field (which would require a separate showcase in kumu).
-- Vis is looking good! Changing the of items so The Neuro is the biggest (currently Universities are the biggest).
+- Vis is looking good! Changing the size of items so The Neuro is the biggest (currently Universities are the biggest).
 - Making sure all PIs are affiliated with their labs only, then labs are affiliated with centres etc. 
 - When uploading data to kumu, there is a box tick option to override existing data. I'm ticking this, but not sure it's all being cleared (remembered this from previous projects too). I'm going to upload a completely blank list of elements and connections, to wipe the slate.
 - Just found this useful [list of units at BIC](https://www.mcgill.ca/bic/about-us-1/staff). I've changed labs who I had as affiliated with BIC to the units given her. Remember that we're not plotting everyone, just the ones we have touch on (and The Neuro specific labs), so there are other PIs at BIC who we're aren't collecting. 
