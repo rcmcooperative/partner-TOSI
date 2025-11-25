@@ -109,8 +109,8 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
 - Leading a reflections exercise at upcoming GRC on incentives to contribute to OS. Contributions at https://tinyurl.com/TOSI-GRC-2025-11 (confidential, password protected)
 
 ### 2025-11-25
-- Closing interview booking. Final numbers below (total = 17):
+- Closing interview booking. Final numbers below (total = 18):
     - PIs: 6
-    - Staff: 5
-    - Trainees: 6
+    - Staff/Researchers: 5
+    - Trainees: 7
 
