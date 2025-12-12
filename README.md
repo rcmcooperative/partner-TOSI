@@ -101,8 +101,8 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [x] Interview scheduling and data collection infrastructure confirmed
 - [x] Interview invitations sent
 - [x] Publicize invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
-- [ ] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
-- [ ] Exploration of Incentives with GRC
+- [x] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
+- [x] Exploration of Incentives with GRC
 - [ ] Objectives refined with TOSI
 
 ### Milestone 4: (Diagnosis) Baseline
