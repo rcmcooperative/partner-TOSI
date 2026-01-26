@@ -36,8 +36,6 @@ Live notes on these observations are held [here (access restricted)](https://hac
 ## Themes from observations
 These will remaining internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.
 
-Compiling themes in kumu syntax to create a mind map ~./private/community-objectives-kumu.xlsx
-
-Summaries drafting in ~./private/community-objective-summaries.md. These will be made public after data collection.
+Summaries drafting in [summaries of identified themes in](./private/objectives-analysis/qualitative-theme-summaries.md). These will be made public after data collection has completed.
 
 

@@ -114,3 +114,12 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
     - Staff/Researchers: 5
     - Trainees: 7
 
+### 2025-12-07
+- Fit in a further interview (late booked and a Clinician)
+    - PIs: 6
+    - Staff: 6
+    - Trainee: 5
+    - Clinician: 1
+- Analysis complete into high level themes. Further structuring ongoing
+
+
