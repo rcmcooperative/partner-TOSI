@@ -32,7 +32,7 @@ import json
 # where all our data is
 dataRoot = '/Users/cassandragouldvanpraag/Library/Mobile Documents/com~apple~CloudDocs/repos/rcmcooperative/partner-TOSI/private/community-map-data/'
 
-sharepoint_date = '20251112'
+sharepoint_date = '20251208'
 filename_prefix = 'Community-List-'
 filename_extension = '.csv'
 
