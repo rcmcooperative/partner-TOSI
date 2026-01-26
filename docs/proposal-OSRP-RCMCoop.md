@@ -151,8 +151,6 @@ We understand any requirement for experience with GitHub may limit engagement, t
 
 As discussed, we would be pleased to undertake this work at a reduced pre-tax rate, plus additional overheads charged by [OLS](https://we-are-ols.org/) as the fiscal sponsor of RCM Cooperative. The invoice for services will be prepared and submitted to TOSI (or relevant parties) by OLS. 
 
-# Footnotes
-[^scope]: The scope of the diagnostic and strategy work has been reduced to focus solely on activities internal to The Neuro. 
 
 # References
 
@@ -163,3 +161,7 @@ Gould van Praag, C. (2025). RCM Cooperative Community Mapping Workflow. Zenodo. 
 Millington, R. (2025). How to develop a community strategy. FeverBee. Retrieved from <https://www.feverbee.com/strategy/>.
 
 Sharan, M., Karoune, E., Hellon, V., Gould van Praag, C., Kayumbi, G., Bennett, A., Araujo Alvarez, A., Steele, A., Batchelor, S., Lacey, A., Whitaker, K. (2024). Professionalising Community Management Roles in Interdisciplinary Research Projects. <https://doi.org/10.48550/arXiv.2409.00108>
+
+# Footnotes
+[^scope]: The scope of the diagnostic and strategy work has been reduced to focus solely on activities internal to The Neuro. 
+
