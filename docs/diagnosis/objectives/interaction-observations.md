@@ -27,6 +27,8 @@ Live notes on these observations are held [here (access restricted)](https://hac
 - 2025-10-31 - Presented RCM101 at Poline lab meeting (slides: https://doi.org/10.5281/zenodo.17489925)
 - 2025-11-10 - Feindel Brain and Mind Series: Making Medical AI Reproducible (Julien Cohen-Adad)
 - 2025-11-10 - Cooper Prize Seminar
+- 2025-12-08 - Neuro Information Session
+- 2025-11-19 - Canadian Research Network presentation on TOSI as an institutional perspective of embedding open science 
 - 2025-12-10 - Rare Diseases Research Group meeting presentation on [CORE Principles for Research Communities](https://zenodo.org/records/17880865) (Cass presenting)
 - 2025-12-16 - LORIS developers meeting presentation on [CORE Principles for Research Communities](https://zenodo.org/records/17880865) (Cass presenting)
 - 2026-02-14 - OSHO session on GitHub (Cass presenting)
