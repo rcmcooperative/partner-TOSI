@@ -14,7 +14,7 @@ Your perspective will be incorporated into a set of objectives for the community
 Please specify "Neuro Open Science Interviews" in your booking. Interviews will be held online unless you request otherwise.
 
 ## Notebook of activity (oldest to newest)
-*This file is being used as a lab note book, to keep track of activities associated with this task. A formal write up will be prepared at the end of this project*
+*This file is being used as a lab notebook, to keep track of activities associated with this task. A formal write-up will be prepared at the end of this project*
 
 ### 2025-09-25
 
@@ -46,7 +46,7 @@ TOSI have approved the following groups of people to be contacted and invited to
 - others as we are made aware
 
 **Initiative leadership and award recipients**
-- OSHO organisers
+- OSHO organizers
 - Previous award and grant recipients, including Badges 
 - ReproducibiliTEA
 - others as we are made aware
@@ -55,7 +55,7 @@ Additionally advised to contact past members of GRC. Initiative and tool lists t
 
 ### 2025-10-15
 
-[Open call to participate](#take-part) in interviews added to pubic repo.
+[Open call to participate](#take-part) in interviews added to public repo.
 
 ### 2025-10-16
 
@@ -120,6 +120,8 @@ Summaries drafting in ~./private/community-objective-summaries.md. These will be
     - Staff: 6
     - Trainee: 5
     - Clinician: 1
-- Analysis complete into high level themes. Further structuring ongoing
+- Analysis complete into high level themes. Further structuring ongoing.
+
+[Summaries of identified themes](../../../private/objectives-analysis/qualitative-theme-summaries.md) can be made public after data collection has completed and confidential or identifiable information have been redacted.
 
 

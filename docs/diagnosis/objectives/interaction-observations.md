@@ -35,8 +35,8 @@ Live notes on these observations are held [here (access restricted)](https://hac
 - Offered to host community clinic for Poline lab - scheduling for 2026 ([participant co-working doc](https://docs.google.com/document/d/10bYTZb6Ao-uAKTNEoZdQTNDgcqJGkdjc34xAe7B_afQ/edit?usp=sharing))
 
 ## Themes from observations
-These will remaining internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.
+These will remain internal to TOSI until [after the diagnosis phase](../../../README.md#milestone-4-diagnosis-baseline) to avoid biasing potential interview participants.
 
-Summaries drafting in [summaries of identified themes in](./private/objectives-analysis/qualitative-theme-summaries.md). These will be made public after data collection has completed.
+[Summaries of identified themes](../../../private/objectives-analysis/qualitative-theme-summaries.md) can be made public after data collection has completed and confidential or identifiable information have been redacted.
 
 

@@ -13,7 +13,7 @@ We advocate for a transparent and reproducible mapping workflow, to optimize the
 Public share of a community map is also a valuable tool for community members to identify themselves and locate others with shared interests. 
 
 ## Notebook of activity (oldest to newest)
-*This file is being used as a lab note book, to keep track of activities associated with this task. A formal write up will be prepared at the end of this project*
+*This file is being used as a lab notebook, to keep track of activities associated with this task. A formal write-up will be prepared at the end of this project*
 
 
 ### 2025-09-29
@@ -37,15 +37,15 @@ The intention is to set this infrastructure up now for use in this project, and 
 
 Ongoing training is being provided to Luisa, and further documentation on usage will be developed.
 
-The sharepoint lists have been shared with [Cass' RCM Cooperative email](../../../project-management/communications/channels.md#email)). 
+The SharePoint lists have been shared with [Cass' RCM Cooperative email](../../../project-management/communications/channels.md#email)). 
 
 ### 2025-10-02
 
-Sharepoint list work shared at TOSI team meeting. Annabell approves continued development and review of Initiatives and Tools list by Luisa for completeness.
+Sharepoint list work shared at TOSI team meeting. Annabel approves continued development and review of Initiatives and Tools list by Luisa for completeness.
 
 ### 2025-10-07
 
-The sharepoint lists have been shared with [Cass' McGill email](../../../project-management/communications/channels.md#email)) now this is available. This has been necessary as Cass was previously unable to to make or edit the look-up columns which are essential for linking elements.
+The SharePoint lists have been shared with [Cass' McGill email](../../../project-management/communications/channels.md#email)) now this is available. This has been necessary as Cass was previously unable to make or edit the look-up columns which are essential for linking elements.
 
 Luisa has reviewed the Initiative list and made amendments. Luisa is also supporting data entry for email addresses, initiative leadership and tool contacts.
 
@@ -63,7 +63,7 @@ Cass will do a big push on this so interview invites can be sent ASAP.
 
 Added previous awardees and PIs of labs with team members who'd received awards (2023, 2024). 
 
-Added Cooper Prize recipients (from the Neuro)
+Added Cooper Prize recipients (from The Neuro)
 
 Added Open Science in Action Seminar speakers and Chairs
 - This should really be refactored as an element on the "interactions" list. 
@@ -83,10 +83,10 @@ Where possible for the events which are being organized currently, I'll be askin
 We will also brainstorm in the team meeting tomorrow about what data they do currently hold at a fine enough level, e.g. applicants for awards (currently I only have recipients/runners up) and applicants for APC offset. 
 
 I'm going to work on adding labs to the "affiliations" list, to see where they have clusters of interest, or more importantly where they don't.
-This information is implicit to their operations at the moment, but i suggest to demonstrate it effectively will require more centralized data collection. 
+This information is implicit to their operations at the moment, but I suggest to demonstrate it effectively will require more centralized data collection. 
 I'd also like to be able to clearly show the value of working closely to build engagement with targeted groups/individuals. 
 
-Going to push on tidying the data and running through the code for visualisation in kumu, to grow engagement about collecting this data. 
+Going to push on tidying the data and running through the code for visualization in kumu, to grow engagement about collecting this data. 
 There will be quite a a few areas of the [existing code](https://github.com/rcmcooperative/community-mapping/blob/main/code/sharepoint-to-kumu-xlsx.py) which need adapting. 
 
 I've taken the TOSI Leaders Group off the list for now, as I keep having to work around them (e.g. in missing emails).
@@ -102,7 +102,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
 ### 2025-11-03
 - Added OS Helpers (dm from Luisa)
 - Luisa also shared applicants to internal awards. Not sure I've correctly understood or grouped awards, so will review with the team.
-- Will also review the broad categorisation I've created for "initiative types" (initially based on the TOSI teams grouping), and think about how this will be usefully visualized. For example, awards and the OS dashboard are both included as "incentives", but in filtering the data it would be useful to see award recipients separately form contributors to the dashboard (although we don't yet have any contributors to the dashboard except Gabriel). Will look to see if any others need cleaning.
+- Will also review the broad categorization I've created for "initiative types" (initially based on the TOSI teams grouping), and think about how this will be usefully visualized. For example, awards and the OS dashboard are both included as "incentives", but in filtering the data it would be useful to see award recipients separately form contributors to the dashboard (although we don't yet have any contributors to the dashboard except Gabriel). Will look to see if any others need cleaning.
 
 ### 2025-11-04
 - List of presenters of Open Science Lab Tours received. 
@@ -133,7 +133,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
     - Note that the current data structure is not identifying who was successful in awards, and what year they applied. 
     This would need restructuring, which we don't have resource for at the moment.
 - Requesting a list of who has applied for APC funding from Gabriel - received and added.
-    - Lots of labs have only engaged via APC Offset programme. This suggests this is a valuable gateway to build engagement.
+    - Lots of labs have only engaged via APC Offset program. This suggests this is a valuable gateway to build engagement.
 
 #### TOSI Trainee Council vs The Neuro Trainee Committee vs OSHO
 - TOSI Trainee Council is McGill wide, hence includes Douglas folks
@@ -158,7 +158,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
     
 #### Partnerships
 - https://www.mcgill.ca/neuro/research/partnerships
-- not adding for now as it is not clear what value these will add the the map in the first instance, and not clear how these are defined
+- not adding for now as it is not clear what value these will add the map in the first instance, and not clear how these are defined
 
 #### OSHO resources
 - https://openscienceofficehours.github.io/osoh_website/FEATURED-open-science-resources/
@@ -166,7 +166,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
 - Happy that we've captured a good bunch in our exiting tool set, and present with ambition for self services. 
 
 #### Open Science in Action Symposium 
-- For some years had a organisers tab, but not all. These people have been added to "leadership" for that year
+- For some years had an organizers tab, but not all. These people have been added to "leadership" for that year
 - 2023 also had named people at Networking, but not consistently on the program
 
 #### Data wrangling for kumu
@@ -174,7 +174,7 @@ Remember in all of this that what you measure is what is (or becomes) important 
 - Tested the env and having a read through to refamiliarise! 
 - On the actual visualization, for proof of concept it will be sufficient to have people, affiliations and tools as elements, with initiatives and interactions as metadata. 
 - For initiatives, collapse the name to also include initiative type, so then can filter/showcase by e.g. "funding-project-x, y, z".
-- Also add a initiative-engagement-count, so you can see who has been a repeat organiser
+- Also add a initiative-engagement-count, so you can see who has been a repeat organizer
 - For interactions lets keep the name as it is (they are unique enough and there are not too many), but also add a "count" 
 
 ### 2025-11-06
@@ -225,7 +225,7 @@ Updated all people entries to "consent-not-invited"
 - Now wondering if the GRC and TC committees should be split up by year, so you can see who is on there currently and who is passed... Probably should be...
 - This might leave only committees in the initiative-participant etc. lookups, so it would make sense to rename this, and make it easier to showcase them all together
 - Also added the affiliation type name, (e.g. Poline => Poline Lab), to make it a bit easier to read in the map. Added other missing affiliation types
-- Also had to delete the "tool-user" lookup to make the "funding-recipient" etc. lookups, as sharepoint had reached the max number of lookups...
+- Also had to delete the "tool-user" lookup to make the "funding-recipient" etc. lookups, as SharePoint had reached the max number of lookups...
 - Although Hatrock has a first and runner up prize, I've decided to group these together and note as runner up in the notes, so we have some space for more lookups later. Hatrock was the only one which had an explicit "runner up", so doesn't add much value to have it as a separate field (which would require a separate showcase in kumu).
 - Vis is looking good! Changing the size of items so The Neuro is the biggest (currently Universities are the biggest).
 - Making sure all PIs are affiliated with their labs only, then labs are affiliated with centres etc. 
