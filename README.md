@@ -74,7 +74,7 @@ Opinions will only be shared once they contribute to an indication of consensus 
 Notes of meetings and workshops will remain internal until such a time that they are anonymized and redacted for public sharing.
 
 #### Documentation and Resource Management
-To ensure the long-term utility, discoverability, and sustainability of the project outputs, we aim for all resources (including datasets, code, and final reports) will be accompanied by robust and comprehensive documentation. Our goal is for this documentation to adhere [FAIR](https://www.go-fair.org/fair-principles/) best practices, including the use of metadata standards, data dictionaries, and version control.
+To ensure the long-term utility, discoverability, and sustainability of the project outputs, we aim for all resources (including datasets, code, and final reports) to be accompanied by robust and comprehensive documentation. Our goal is for this documentation to adhere [FAIR](https://www.go-fair.org/fair-principles/) best practices, including the use of metadata standards, data dictionaries, and version control.
 
 ## Roadmap & Milestones
 
@@ -103,25 +103,27 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [x] Publicize invitations and open call (The Neuro Comms, internal mailing lists, LinkedIn)
 - [x] Objectives for the community distilled from interaction observations, community interviews and organizational priorities.
 - [x] Exploration of Incentives with GRC
-- [ ] Objectives refined with TOSI
+- [x] Objectives refined with TOSI
 
 ### Milestone 4: (Diagnosis) Baseline
-- [ ] Indicators of success in achieving objectives determined
-- [ ] Data sources identified to observe indicators
-- [ ] Baseline and trends against indicators recorded
+- [x] Indicators of success in achieving objectives determined
+- [x] Data sources identified to observe indicators
+- [x] Baseline and trends against indicators recorded
 
 ### Milestone 5: Strategy Design complete
-- [ ] Develop approach to support success in achieving objectives
+- [x] Develop approach to support success in achieving objectives
+- [x] Recommendations submitted to TOSI
 - [ ] Refine strategy with TOSI
-- [ ] Refine strategy with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9)) - Note this is unlikely to go ahead within the time frame of this project due to changes in resourcing and focus.
+- [ ] Refine strategy with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9)) - Note this is unlikely to go ahead within the time frame of this project due to changes in resourcing and focus. May be taken up later as a dissemination activity. 
 
 ### Milestone 6: Implementation tactics developed
-- [ ] Refinement and prioritization of activities in support of the strategy, including review of existing initiatives (see [Strategy Design](./docs/proposal-OSRP-RCMCoop.md#strategy-design))
+- [x] Refinement and prioritization of activities in support of the strategy, including review of existing initiatives (see [Strategy Design](./docs/proposal-OSRP-RCMCoop.md#strategy-design))
 - [ ] Refine implementation with TOSI
 - [ ] Refine implementation with The Neuro community (ideally a workshop/call - [this issue for organizing](https://github.com/rcmcooperative/partner-TOSI/issues/9)) - Note this is unlikely to go ahead within the time frame of this project due to changes in resourcing and focus.
 
 ### Milestone 7: Dissemination plan developed
-- [ ] Mechanisms to empower the community to raise awareness of the strategy so it can be incorporated into their operational planning
+- [x] Mechanisms to empower the community to raise awareness of the strategy so it can be incorporated into their operational planning
+- [ ] Dissemination plan refined with TOSI
 - [ ] Communication of the recommendations to the wider Neuro community
 
 ## The Team
@@ -132,7 +134,7 @@ The strategic analysis is being undertaken following the procedure outlined in t
 - [Annabel Seyller - CEO, TOSI](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi)
 - Other contributions have also been made by those listed in [Contributors](#contributors)
 
-### Roles an responsibilities
+### Roles and responsibilities
 The main investigative work is being undertaken by Cassandra Gould van Praag (RCM Cooperative), using infrastructure provided by RCM Cooperative. 
 Where engagement with the community is required, for example for qualitative data collection and the co-creation of recommendations, TOSI will facilitate connections with appropriate individuals and manage the logistics of convening (for example, registration and room bookings for workshops).
 
@@ -160,7 +162,7 @@ This repository uses the template created and maintained by The Turing Way team 
 
 ## Contact
 
-All initial enquiries should be directed to the project lead, Cassandra "Cass" Gould van Praag (cassandra.gouldvanpraag@rcmcooperative.com).
+All initial inquiries should be directed to the project lead, Cassandra "Cass" Gould van Praag (cassandra.gouldvanpraag@rcmcooperative.com).
 
 You can also direct message Cass on the **TOSI Slack workspace** - please email Cass for a slack invite link.
 
